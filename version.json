@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "appVersionCode": 2,
+  "appVersionCode": 3,
   "messageText": "Please update to continue using this app This is a new version 0.2 Which is make the app more reliable and improve performance .",
   "updateButtonText": "Update",
   "updateButtonLink": "https://example.com/update",
@@ -10,7 +10,7 @@
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#9E9E9E",
   "cancelButtonGradientEndColor": "#607D8B",
-  "textGradientStartColor": "#4CAF50",
-  "textGradientEndColor": "#8BC34A",
-  "dialogBackgroundColor": "#CD0051"
+  "textGradientStartColor": "#B40D51",
+  "textGradientEndColor": "#D719D5",
+  "dialogBackgroundColor": "#000000"
 }
