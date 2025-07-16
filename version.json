@@ -2,15 +2,15 @@
   "showDialog": true,
   "appVersionCode": 2,
   "messageText": "Please update to continue using this app.",
-  "updateButtonText": "Update Now",
+  "updateButtonText": "Update",
   "updateButtonLink": "https://example.com/update",
   "updateButtonGradientStartColor": "#FF5722",
   "updateButtonGradientEndColor": "#FF9800",
-  "cancelButtonText": "Exit",
+  "cancelButtonText": "Later",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#9E9E9E",
   "cancelButtonGradientEndColor": "#607D8B",
   "textGradientStartColor": "#4CAF50",
   "textGradientEndColor": "#8BC34A",
-  "dialogBackgroundColor": "#212121"
+  "dialogBackgroundColor": "#CD0051"
 }
