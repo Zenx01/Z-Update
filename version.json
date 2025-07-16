@@ -1,16 +1,16 @@
 {
   "showDialog": true,
   "appVersionCode": 2,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
+  "messageText": "Please update to continue using this app.",
+  "updateButtonText": "Update Now",
+  "updateButtonLink": "https://example.com/update",
+  "updateButtonGradientStartColor": "#FF5722",
+  "updateButtonGradientEndColor": "#FF9800",
+  "cancelButtonText": "Exit",
   "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "cancelButtonGradientStartColor": "#9E9E9E",
+  "cancelButtonGradientEndColor": "#607D8B",
+  "textGradientStartColor": "#4CAF50",
+  "textGradientEndColor": "#8BC34A",
+  "dialogBackgroundColor": "#212121"
 }
