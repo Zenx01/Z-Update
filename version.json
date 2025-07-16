@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "appVersionCode": 3,
+  "appVersionCode": 2,
   "messageText": "Please update to continue using this app This is a new version 0.2 Which is make the app more reliable and improve performance .",
   "updateButtonText": "Update",
   "updateButtonLink": "https://example.com/update",
