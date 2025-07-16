@@ -1,8 +1,8 @@
 {
   "showDialog": true,
   "appVersionCode": 2,
-  "dialogTitleText": "[ ZenX ModZ ]", 
-  "messageText": "🍑Please update to continue using this app...",
+  "dialogTitleText": "[ ZenX ModZ ]",
+  "messageText": "Please update to continue using this app.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://example.com/update",
   "updateButtonGradientStartColor": "#FF5722",
