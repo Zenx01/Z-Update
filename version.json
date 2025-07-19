@@ -1,5 +1,4 @@
 {
-  "showDialog": true,
   "appVersionCode": 2,
   "dialogTitleText": "[ ZenX ModZ ]",
   "dialogTitleTextColor": "#FF5722",
@@ -9,7 +8,7 @@
   "updateButtonGradientStartColor": "#FF5722",
   "updateButtonGradientEndColor": "#FF9800",
   "cancelButtonText": "Later",
-  "cancelClosesApp": true,
+  "cancelClosesApp": false,
   "cancelButtonGradientStartColor": "#9E9E9E",
   "cancelButtonGradientEndColor": "#607D8B",
   "textGradientStartColor": "#000000",
