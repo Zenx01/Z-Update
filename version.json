@@ -2,6 +2,7 @@
   "showDialog": true,
   "appVersionCode": 2,
   "dialogTitleText": "[ ZenX ModZ ]",
+  "dialogTitleTextColor": "#FF5722",
   "messageText": "Please update to continue using this app.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://example.com/update",
@@ -11,7 +12,7 @@
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#9E9E9E",
   "cancelButtonGradientEndColor": "#607D8B",
-  "textGradientStartColor": "#B40D51",
-  "textGradientEndColor": "#FFFFFF",
+  "textGradientStartColor": "#000000",
+  "textGradientEndColor": "#000000",
   "dialogBackgroundColor": "#FFFFFF"
 }
